@@ -1,0 +1,13 @@
+# Site settings
+title: "Yang Meyer, indie Mac &amp; iOS apps"
+email: hello@yangmeyer.de
+description: > # this means to ignore newlines until "baseurl:"
+  Thoughts on Mac &amp; iOS development, UX design, 
+  freelancing, micropreneurship, and life.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.yangmeyer.de" # the base hostname & protocol for your site
+twitter_username: yangmeyer
+github_username:  yangmeyer
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Úll was sensational"
+date: 2012-04-30 23:28
+comments: true
+categories: 
+---
+[Úll](http://ull.ie) Conference was mind-blowing. This being my first conference ever, I did not know what to expect, and I did initially have doubts about whether spending a thousand euro out of my pocket would be worth it. A few hours into the conference, I was sure it absolutely was. (The luscious Saturday dinner banquet at the Kilmainham Royal Hospital, concocted by a Michelin-star chef, made the ticket even seem underpriced.)
+
+Some highlights
+-------
+The weekend kicked off with Josh Clark’s “Tapworthy” workshop. Josh is such a cheerful guy, it’s addictive. For me the interactive workshop provided an insightful 2012 update to his (highly recommended) [book by the same name](http://www.amazon.de/gp/product/1449381650/ref=as_li_ss_tl?ie=UTF8&tag=biblioyang-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=1449381650), with an emphasis on interesting gestural user interfaces (like the button-less to-do app [Clear](http://itunes.apple.com/us/app/clear/id493136154?mt=8) and the mesmerizing particle instrument/simulator/game [Uzu](http://itunes.apple.com/app/uzu/id376551723?mt=8)) as well as the emerging best practices for iPad apps.
+
+Friday evening’s opening keynote from aptly self-proclaimed “experience designer” [Aral Balkan](http://aralbalkan.com) blew everybody’s minds. His exuberant rant on toilet flushes, elevator buttons, and gimme-clean-clothes machines was legendary. I hope to see Aral on TED soon.
+
+That same evening, I was casually chatting near the bar with an exceptionally nice guy who introduced himself as Michael. We talked about his work on the Apple online store and how I liked its [sticky-scrolling](https://blog.compeople.eu/apps/?p=32) shopping cart. Only to find out ten minutes into the conversation that he’s better known as [@rands](https://twitter.com/#!/rands) and writes [Rands in Repose](http://www.randsinrepose.com), a blog I have been reading and admiring for years. Whoa!
+
+<div style="display:none; float:right; margin-left:1em; width:230px; font-size:0.8em;">
+<p><img src="http://XXXXX.jpg" align="right" alt="John Gruber speaking from the altar, at Úll Conference. Kilmainham Royal Hospital, Dublin" /></p></div>
+
+[John Gruber](http://daringfireball.net), *the* celebrity in the Apple developer community, came past me in the crowded bar. I made way for the man and his Guinness, and he thanked me *by name* – two days after I briefly and awkwardly said hello. I now know how teenage girls must feel if that happened to them with Justin Bieber.
+
+Everybody (including the Lord Mayor, who turns out is a Daring Fireball fan) was surprised that Gruber was at the conference at all. He gave a perspicacious sermon on Apple and the psychology of first impressions.[^1] Guess I flunked mine!
+
+And the charming [Matt Gemmell](http://mattgemmell.com) has a Scottish accent!? It’s stunning to actually see, hear and meet so many of the wonderful people I have been following on the Net for years.
+
+And most amazing of all was the vibe I got from virtually everybody at the conference. We’re all trying our best to *make stuff* (or as the inimitable [Kyle Neath](https://twitter.com/#!/kneath) from GitHub put it, to “build rad shit”). And because all of us know how hard that is, we help and support each other with ideas, feedback, and encouragement. Thanks to all of you whom I talked to. You’re awesome.
+
+Here’s to Úll II[^2]:
+-------
+Crafting a delightful experience was really at the heart of Úll. The underlying values – quality, honesty, respect for the user – pervaded the whole conference. Impeccable organization throughout, stunning historical and atmospheric venues, luxurious food. And [Kilian McMahon](https://twitter.com/#!/kilmc)’s badges were simply exquisite.
+
+[Paul](https://twitter.com/#!/paulca) and [Dermot](https://twitter.com/#!dermdaly) did a *fantastic* job with organizing the conference. As everybody’s been saying to me, with Úll being my first ever conference: “You’re spoiled for life. It only goes downhill from here.”
+
+#### Footnotes
+[^1]: Paraphrasing Gruber’s introductory remark: “I’m not a psychologist and don’t have any formal training, so… I think I have the authority to tell you guys how this works.”
+[^2]:Now here’s an interesting typographic challenge…
