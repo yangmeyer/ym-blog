@@ -47,7 +47,7 @@ I’m going to New York. I’ve quit my well-paying job at a wonderful company, 
 
 Part of it is that I’ve been wanting to [live in New York once](http://quietube2.com/v.php/http://www.youtube.com/watch?v=xavFb4WH7o0), to experience everyday life in this crazy bustling city. Last time I was there I was still a kid,[^3] and anyway I believe living there to be way more exhilarating than visiting.
 
-The other part is that I [feel a kind of kinship](/blog/2012/02/26/introducing-myself/) with people who create products with passion, and I hope to meet some of these people, be they [knife makers](http://thisismadebyhand.com/film/the_knife_maker) or [app](http://www.marco.org) [makers](http://alexisohanian.com), and to learn and be inspired by them.
+The other part is that I [feel a kind of kinship]({% post_url 2012-02-26-introducing-myself %}) with people who create products with passion, and I hope to meet some of these people, be they [knife makers](http://thisismadebyhand.com/film/the_knife_maker) or [app](http://www.marco.org) [makers](http://alexisohanian.com), and to learn and be inspired by them.
 
 Today I told my colleague [Christian](http://blog.mpilot.de) about the fascinating concept of journeyman years,[^4] and he immediately reacted with Hey that sounds much like what you’re up to! And while I hadn’t initially considered my plans in this light, I do see the overlap in values and motivations.
 

@@ -50,7 +50,9 @@ Thanks everyone for setting me free from some of my stuff. Judging from what I o
 Thanks again for coming. See you guys soon!
 
 -----------
+
 #### Footnotes
+
 [^1]: I had never had more than sixty guests at my party before… Twice as many people showed up than I expected, meaning the four crates of beer were empty by 10pm. Thanks to the brave guys who set out to get another four crates!
 [^2]: There are those who try diligently to partition their “work” life from their “personal” life, and I respect that. I, however, prefer just being my holistic self, be it with my colleagues, family, or ultimate frisbee teammates. I also think that, regardless of what approach you prefer, social platforms like Twitter and Facebook, as well the fact that anything you post on the Internet will forever be searchable and associated with your name, make it increasingly hard to compartmentalize your identity.
 [^3]: I had to guess most of the departure times, so things might be a bit off… Take my “analysis” with a healthy dose of salt – as you should anyway.

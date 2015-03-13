@@ -9,7 +9,7 @@ categories:
 ---
 <a href="http://itunes.apple.com/us/app/snipster-collect-+-arrange/id568099336"><img src="{{ root_url }}/images/Snipster-57-rounded@2x.png" alt="Snipster" style="background:white; float:right; margin:0 0 1em 1em" /></a>
 
-In the process of implementing [Snipster](https://itunes.apple.com/us/app/snipster-collect-+-arrange/id568099336), my newest app creation (see the [announcement post](/blog/2012/10/18/snipster-is-here/)), I ran into some interesting problems and tried out some new frameworks and features. What follows are some observations, in no particular order:
+In the process of implementing [Snipster](https://itunes.apple.com/us/app/snipster-collect-+-arrange/id568099336), my newest app creation (see the [announcement post]({% post_url 2012-10-18-snipster-is-here %})), I ran into some interesting problems and tried out some new frameworks and features. What follows are some observations, in no particular order:
 
 After having quickly set up **Core Data** (it’s a breeze!) and then running into a dead end with ordered relationships and NSFetchedResultsController,[^1] I now appreciate better why Core Data is both revered and despised.
 

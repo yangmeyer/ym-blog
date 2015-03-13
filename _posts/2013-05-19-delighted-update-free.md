@@ -11,7 +11,7 @@ categories:
 
 <a href="https://itunes.apple.com/us/app/id607995866"><img src="/images/in-posts/2013-04/Delighted-Yang-small.png" alt="Get Delighted! on the App Store" style="margin:0 0 2em 2em; float:right" /></a>
 
-Today, I am releasing [“Delighted!” v1.1](https://itunes.apple.com/us/app/id607995866), an update to the professional-contacts app that I first released in March after [conceiving and implementing the app in just under a week](/blog/2013/02/25/creating-apps-on-the-beach/).
+Today, I am releasing [“Delighted!” v1.1](https://itunes.apple.com/us/app/id607995866), an update to the professional-contacts app that I first released in March after [conceiving and implementing the app in just under a week]({% post_url 2013-02-25-creating-apps-on-the-beach %}).
 
 This update is **all that version 1.0 should have been:**
 

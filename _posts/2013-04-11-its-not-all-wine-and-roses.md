@@ -9,7 +9,7 @@ categories:
 - Freelancing
 ---
 
-I’ve had it good. Ever since [I quit my job](/blog/2012/03/15/wanderjahre/) early last year, in the eyes of some, I’m livin’ la vida loca, the good life, la dolce vita – you name it. And while I am very far from complaining, I’d like to rectify this skewed view. There is always more to the picture than meets the eye.
+I’ve had it good. Ever since [I quit my job]({% post_url 2012-03-15-wanderjahre %}) early last year, in the eyes of some, I’m livin’ la vida loca, the good life, la dolce vita – you name it. And while I am very far from complaining, I’d like to rectify this skewed view. There is always more to the picture than meets the eye.
 
 In the past months, I’ve come across a number of examples that provide some insight into the less-visible aspects of lifestyle choices.
 

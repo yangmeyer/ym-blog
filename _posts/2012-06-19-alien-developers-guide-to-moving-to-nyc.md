@@ -15,6 +15,7 @@ Disclaimer: I have been here for two weeks now, so obviously I am now an expert 
 
 Apartment Hunt
 -----
+
 The of the things I worried about most was finding myself a place. I did not want to live out of hostels for long, mainly for cost, privacy, and convenience issues.
 
 **Hostels** will cost you around 50$ a night and will let you stay a maximum of 14–20 nights (in case you do want to spend that much money on a cheap shared-room bunk bed).[^1]
@@ -35,6 +36,7 @@ Some **nice neighborhoods:**
 
 Getting Around
 -----
+
 Get yourself a **MetroCard** 30-day Unlimited for 104$ and not worry about public transportation until it expires.
 
 If you live and work in Brooklyn, getting a **bicycle** might be a good idea. There are good bike lines, and the only other good crosstown option is the G train. I see lots of fixies and single-speed bikes around Williamsburg.
@@ -43,6 +45,7 @@ Get yourself a **prepaid SIM** for a phone number and 3G data. [AT&T has a decen
 
 Making Connections
 -----
+
 There is a *lot* of **“new tech”** happening in New York, which is probably one of the reasons you are coming here in the first place anyway, so why am I telling you this. There is a big overlap with the exploding **startup scene**, so I am including entrepreneurship-focussed pointers.
 
 There is a handful of meetups to choose from on any given day. A word of warning: It’s easy to get caught up in it and not get anything done at all. What follows are some good resources to start with. Shop around and see what interests you.
@@ -59,6 +62,7 @@ In the short time I have been here, I most enjoyed the organized-chaos un-confer
 
 Workspace
 -----
+
 Most **cafés** seem to tolerate hipsters hacking away at their MacBooks. Some even have tables to work on, e.g. the Starbucks at 525 Fashion Av, or the [Black Brick](http://www.yelp.com/biz/black-brick-brooklyn) café on Bedford Ave (at Grand St, Williamsburg). Most Starbucks have WiFi, but you’d miss out on the so-much-better coffee elsewhere.
 
 In summer, you can always find a bench or a free spot in any of the many **parks and squares.** In Manhattan, you have a decent chance at getting WiFi, e.g. from Blis NY Wi-Fi. Or just pop into a Barnes and Noble.
@@ -76,6 +80,7 @@ Amazingly, there are also free coworking spaces:
 
 Job Hunting
 -------
+
 If you attend some of the meetups, you will meet lots of startups eagerly looking for good developers. Bring lots of business cards. (I made myself some with [Moo](http://moo.com) – “commissioning” the cards was a nice experience, and I’m looking forward to getting them in a week or two.)
 
 From what I hear, most experienced developers in NYC **freelance**, especially in “hot” technologies like iOS, Android, and Python. Even startups in the early stages seem to resort to contracting developers for their prototypes and first iterations, because they have trouble finding developers who will commit long-term to becoming part of the team.
@@ -85,5 +90,7 @@ I have heard good things about [Huntsy](http://huntsy.com/), a service that lets
 The coworking spaces often have message boards. General Assembly has a **job board** for the startups they host, which you can look at during their happy hour.
 
 ---------------
+
 #### Footnotes
+
 [^1]: I stayed at the <a href="http://www.nymoorehostel.com/">NY Moore hostel</a> in East Williamsburg, which was clean and fairly quiet, but the beds were a bit short for me. The friendly staff was very helpful, and its location between the J (Flushing Av) and the L line (Bushwick Av) meant to got to experience some interesting neighborhoods.

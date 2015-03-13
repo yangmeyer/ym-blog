@@ -15,7 +15,7 @@ Snipster is dead-simple, no-nonsense, and [eschews skeuomorphism](http://skeu.it
 
 About that last point. After having created a decidedly skeuomorphic app ([Memento](http://itunes.apple.com/us/app/id500560051)  with its wood panelling and corkboard), I wanted to experiment with an “honest” [flat design](http://layervault.tumblr.com/post/32267022219/flat-interface-design): flat colors or only the subtlest of gradients, geometric forms for icons, and a subdued color scheme. I hope you like it as much as I do.
 
-If you’re a developer and are interested in my experiences while developing Snipster, [read my followup post](/blog/2012/10/18/some-observations-from-coding-snipster/).
+If you’re a developer and are interested in my experiences while developing Snipster, [read my followup post]({% post_url 2012-10-18-some-observations-from-coding-snipster %}).
 
 Give it a spin
 --------

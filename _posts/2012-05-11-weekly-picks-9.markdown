@@ -17,7 +17,7 @@ Picks from The New Yorker
 
 Opportunity
 -----
-**[3 Years of Bootstrapping – Half a Million Dollars A Year Later - and 30×500, Redux](http://unicornfree.com/2012/3-years-of-bootstrapping-half-a-million-dollars-later-and-30x500-redux/)** // [Amy Hoy](https://twitter.com/#!/amyhoy)’s “30×500” class sounds like a wonderful idea. Promising no-nonsense lessons, intensive tutoring, and the benefits of the alumni network, 30×500 sounds like a [Y Combinator](http://ycombinator.com) of bootstrapped startups. (Alas, this year I am trying [my own way](/blog/2012/03/15/wanderjahre/) of finding what I want to do, or else I might have just joined.)
+**[3 Years of Bootstrapping – Half a Million Dollars A Year Later - and 30×500, Redux](http://unicornfree.com/2012/3-years-of-bootstrapping-half-a-million-dollars-later-and-30x500-redux/)** // [Amy Hoy](https://twitter.com/#!/amyhoy)’s “30×500” class sounds like a wonderful idea. Promising no-nonsense lessons, intensive tutoring, and the benefits of the alumni network, 30×500 sounds like a [Y Combinator](http://ycombinator.com) of bootstrapped startups. (Alas, this year I am trying [my own way]({% post_url 2012-03-15-wanderjahre %}) of finding what I want to do, or else I might have just joined.)
 
 **[A Whole Other Country](http://willwilkinson.net/flybottle/2012/04/15/a-whole-other-country/)** // Will Wilkinson on radically pivoting his career: “we overestimate the value of what we already have and so underestimate the upside of taking a chance, leaving something behind, and making a big change.” (via [Ben Casnocha](http://casnocha.com/2012/04/the-upside-of-taking-a-chance.html))
 
