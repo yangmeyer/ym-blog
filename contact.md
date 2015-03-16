@@ -20,3 +20,7 @@ USt-Id-Nr. DE 283277725
 ### Verantwortlich für die redaktionellen Inhalte nach § 55 RStV
 
 Yang Meyer (s. o.)
+
+### Meta
+
+This blog is powered by [Jekyll](http://jekyllrb.com), uses Rohan Chandra’s [Type Theme](https://rohanchandra.github.io/project/type/), and is hosted on [GitHub Pages](https://pages.github.com).
