@@ -10,7 +10,8 @@ categories:
 ---
 This is going to be an interesting year for me.[^1] At the moment, my excitement stems from the app I have been working on with Derk for the past few months – [Memento](http://itunes.apple.com/us/app/id500560051) has finally hit the App Store:
 
-![http://dl.dropbox.com/u/7493953/ymblog-images/2012-02-26-Memento-Clear.png]
+![Memento featured alongside Clear on the App Store]({{ "/images/in-posts/2012-02/2012-02-26-Memento-Clear.png" | prepend: site.baseurl }})
+
 
 “By the way, what have you done that’s so great?”
 ----------------------
