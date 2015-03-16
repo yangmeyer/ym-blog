@@ -20,9 +20,9 @@ theme:
   
   # Header and footer text
   header_text: >
-     <p>Thoughts on Mac &amp; iOS development, UX design, freelancing, micropreneurship, and life.</p>
+    <p>Thoughts on Mac &amp; iOS development, UX design, freelancing, micropreneurship, and life.</p>
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+    <p>I’m currently streamlining designer—developer collaboration with <a href="http://gemba.io">Gemba</a>,<br />a Mac app for delivering assets straight into Git and Xcode.</p>
   
   # Icons
   rss: true
