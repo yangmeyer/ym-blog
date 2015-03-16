@@ -10,7 +10,7 @@ categories:
 For a long time in my 3,5 years of iOS development, I enjoyed devising clever ways to DRY code, abstract away boilerplate code, make components more reusable, make “client” code more beautiful:
 
 * [chaining UIView animations](https://github.com/yangmeyer/CPAnimationSequence)
-* implementing [options with fall-back defaults](http://blog.yangmeyer.de/blog/2012/10/08/an-options-slash-defaults-pattern)
+* implementing [options with fall-back defaults]({% post_url 2012-10-08-an-options-slash-defaults-pattern %})
 * using functional operators on collections (map, select, fold)
 
 Occasionally, this entailed **making use of the impressively powerful Objective-C runtime**. Associated objects, swizzling out method implementations – exciting stuff! These sometimes-ugly details were hidden away in a separate reusable class or category. Once these components were written, the code that used them became so wonderfully concise.
@@ -186,4 +186,4 @@ My best-practice solution is **decidedly more code** than the clever solution’
 
 However, it is **conceptually much simpler**. There is no magic happening behind the curtains, but just a simple matter of pointing the table view to a special datasource for a special case.
 
-As always, let me know your thoughts. I’m [@yangmeyer](http://twitter.com/yangmeyer) on Twitter and [App.net](http://alpha.app.net/yangmeyer).
+As always, let me know your thoughts. I’m [@yangmeyer](http://twitter.com/yangmeyer) on Twitter <del datetime="2015-03-16T14:30:00CET">and [App.net](http://alpha.app.net/yangmeyer)</del>.
