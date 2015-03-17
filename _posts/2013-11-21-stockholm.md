@@ -8,7 +8,7 @@ categories:
 
 ---
 
-For a while now, I've been living in Sweden's capital. A planned visit of three months enticed me to stay for longer. So why sacrifice ramen at [Ganso](http://gansonyc.com/), [tropical temperatures](/blog/2013/02/25/creating-apps-on-the-beach/), or good and affordable German beer – for [messmör](https://sv.wikipedia.org/wiki/Messm%C3%B6r), cold dark winters, and [Systembolaget](https://en.wikipedia.org/wiki/Systembolaget)?
+For a while now, I've been living in Sweden's capital. A planned visit of three months enticed me to stay for longer. So why sacrifice ramen at [Ganso](http://gansonyc.com/), [tropical temperatures]({% post_url 2013-02-25-creating-apps-on-the-beach %}), or good and affordable German beer – for [messmör](https://sv.wikipedia.org/wiki/Messm%C3%B6r), cold dark winters, and [Systembolaget](https://en.wikipedia.org/wiki/Systembolaget)?
 
 Well… thing is, it’s amazing! Besides all the water and the fantastic cityscapes it affords, the mix of old and new buildings, and the general prettyness of people and things, here are some other things I like about this city.
 
