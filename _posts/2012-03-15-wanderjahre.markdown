@@ -37,7 +37,7 @@ I find this an amazing tradition. By traveling extensively, the craftsman gets t
 <p><a href="http://www.amazon.com/Have-Be-Erich-Fromm/dp/0826409121?tag=duckduckgo-d-20"><img src="http://ecx.images-amazon.com/images/I/417302YKQ5L._SS500_.jpg" align="right" alt="To have or to Be (Erich Fromm)" /></a></p>
 </div>
 
-One aspect I particularly like is that a journeyman leaves his home town with almost no possessions and a very modest amount of money—and shall return, after his wanderjahre, with the exact same amount of money. The journey “should be undertaken only for the experience” ([Wikipedia]((http://en.wikipedia.org/wiki/Journeyman_years#German_Waltz)). Such a lifestyle, without a phone, without shelves full of your favorite books, without an apartment you call home, may seem reduced, but I experienced it to feel enriching instead. Having nothing intensifies the sensation of [being](http://www.scribd.com/doc/8341302/Erich-Fromm-To-Have-or-to-Be-1976) and becoming.
+One aspect I particularly like is that a journeyman leaves his home town with almost no possessions and a very modest amount of money—and shall return, after his wanderjahre, with the exact same amount of money. The journey “should be undertaken only for the experience” ([Wikipedia](http://en.wikipedia.org/wiki/Journeyman_years#German_Waltz)). Such a lifestyle, without a phone, without shelves full of your favorite books, without an apartment you call home, may seem reduced, but I experienced it to feel enriching instead. Having nothing intensifies the sensation of [being](http://www.scribd.com/doc/8341302/Erich-Fromm-To-Have-or-to-Be-1976) and becoming.
 
 And now, without further ado:
 
