@@ -23,7 +23,7 @@ I occasionally help select clients create world-class products as a **UX designe
 
 My past projects have been for **established companies** in Germany and Sweden as well as for **promising startups** from Brooklyn to Brisbane.
 
-> Currently available for contract work!
+> Currently **not** available for contract work before January 2015
 
 ## Micropreneur
 
