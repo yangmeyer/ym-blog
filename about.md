@@ -6,40 +6,43 @@ permalink: /about/
 
 I make **products that help people get things done** in their work and personal life, and that are **nice to use**. There’s already enough crappy products in the world, and I don’t want to add to the pile.
 
-For 5 years now, my professional focus has been Mac, iPhone and iPad apps. It is one of the finest platforms to create great software. And much like a musician’s “first” instrument, the Mac and iOS platforms allow me to put my passion into practice.
+Since January 2010, my professional focus has been Mac, iPhone and iPad apps. It is one of the finest platforms to create great software. And much like a musician’s “first” instrument, the Mac and iOS platforms allow me to put my passion into practice.
 
-I’ve most recently worked as a **UX lead** and/or **iOS developer** on
+## Freelance UX
 
+I help select clients create world-class products as a UX designer. I’ve most recently worked as a **UX lead** on
+
+- [flinc](http://flinc.de), Germany’s leading ridesharing app for everyday rides
 - one of the world’s best banking apps for iPhone and iPad
-- an iPad app that a luxury car maker uses in their showrooms
 
-<img src="{{ "/images/Gemba-128.png" | prepend: site.base_url }}" alt="Gemba - drag and drop git for designers" style="float:right" />
+My past clients include **established companies** in Germany and Sweden as well as **promising startups** from Brooklyn to Brisbane.
 
-Currently I am launching **[Gemba](http://gemba.io)**, a **Mac** app that streamlines the asset delivery process between designers and developers.
+> Limited availability for contract work – [send inquiry](mailto:hello@yangmeyer.de)
 
-## Freelance
+## UX Workshops
 
-I occasionally help select clients create world-class products as a **UX designer** and **Objective-C/Swift developer**.
+I do custom-tailored workshops on **value proposition design**, **design thinking**, **lean UX**, **customer journey mapping**, and **user testing**. I have held workshops on these topics in Germany, Stockholm, and New York – in English, German, and Swedish.
 
-My past projects have been for **established companies** in Germany and Sweden as well as for **promising startups** from Brooklyn to Brisbane.
+> Interested in doing a UX workshop for your company? – [send inquiry](mailto:hello@yangmeyer.de)
 
-> Currently **not** available for contract work before January 2015
-
-## Micropreneur
+## Products
 
 Over the years, my focus has shifted from creating good code to creating good user experiences and to creating good businesses. While good code and good UX are important, ultimately they rely on solid value propositions to be viable.
 
-I’m aiming to **build a sustainable business** with my own products (like [Gemba](http://gemba.io)). Along the way, I share the joys and frustrations of running a **one-man product business** with my newly founded [meetup group in Frankfurt](http://www.meetup.com/Micropreneurs-am-Main-Frankfurt/).
+I’m aiming to **build a sustainable business** with my own products. Along the way, I share the joys and frustrations of running a **one-man product business** with my founded [meetup group in Frankfurt](http://www.meetup.com/Micropreneurs-am-Main-Frankfurt/).
 
-Taking an app all the way – from idea and value proposition design, via interaction design and coding, to launching and marketing – has taught me immensely about how to produce high-quality apps that I can be proud of.
+<img src="{{ "/images/Gemba-128.png" | prepend: site.base_url }}" alt="Gemba - drag and drop git for designers" style="float:right" />
+
+My most recent products address the **designer/developer collaboration** process. **[Gemba](http://gemba.io)** for Mac lets designers drag-and-drop assets straight into git repositories. **[Placeholders](https://itunes.apple.com/us/app/placeholders-create-stand/id1042257116?mt=12&at=1000lbLJ&ct=ymblog)** lets developers create stand-in assets while they wait for pretty assets from their designers.
+
 
 <div style="width:77px; float:left; margin-right:0.7em; margin-bottom:2em;">
-<a href="http://itunes.apple.com/us/app/id500560051"><img src="{{ "/images/Memento-57.png" | prepend: site.base_url }}" alt="Memento" style="background:white" /></a><br />
-<a href="http://itunes.apple.com/us/app/trash-cam/id526535445"><img src="{{ "/images/Trash-Cam-57.png" | prepend: site.base_url }}" alt="Trash Cam" style="background:white" /></a><br />
-<a href="http://itunes.apple.com/us/app/snipster-collect-+-arrange/id568099336"><img src="{{ "/images/Snipster-57-rounded.png" | prepend: site.base_url }}" alt="Snip*" style="background:white" /></a>
+<a href="http://itunes.apple.com/us/app/id500560051?mt=8&at=1000lbLJ&ct=ymblog"><img src="{{ "/images/Memento-57.png" | prepend: site.base_url }}" alt="Memento" style="background:white" /></a><br />
+<a href="http://itunes.apple.com/us/app/trash-cam/id526535445?mt=8&at=1000lbLJ&ct=ymblog"><img src="{{ "/images/Trash-Cam-57.png" | prepend: site.base_url }}" alt="Trash Cam" style="background:white" /></a><br />
+<a href="https://geo.itunes.apple.com/de/app/snip*-schnipsel-sammeln-und/id568099336?mt=8&at=1000lbLJ&ct=ymblog"><img src="{{ "/images/Snipster-57-rounded.png" | prepend: site.base_url }}" alt="Snip*" style="background:white" /></a>
 </div>
 
-My earlier apps (circa 2012–13) are still available on the App Store and have been featured by Apple in Germany and elsewhere:
+Taking an app all the way – from idea and value proposition design, via interaction design and coding, to launching and marketing – has taught me immensely. My earlier apps (circa 2012–13) have been featured by Apple and are still garnering 5-star reviews on the App Store:
 
 <blockquote style="margin-left:100px; font-size:1.0em;">“A wonderful app - intuitive interface”, “This really is an excellent App! Very useful”, “Works great and has a simple minimalistic design that I found very easy to use!”</blockquote>
 
