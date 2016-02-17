@@ -22,4 +22,4 @@ Some of the hopes I have for my freelance venture:
 
 Here’s to the Future
 -----
-Check out my [portfolio page](/freelance/), my [Github repos](http://github.com/yangmeyer), and [my apps](http://itunes.apple.com/us/app/id500560051), and get in touch if you’re interested in working with me.
+Check out my [portfolio page](/about/), my [Github repos](http://github.com/yangmeyer), and [my apps](http://itunes.apple.com/us/app/id500560051?at=1000lbLJ&ct=ymblog), and get in touch if you’re interested in working with me.
