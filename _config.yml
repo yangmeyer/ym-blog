@@ -9,6 +9,8 @@ url: "http://blog.yangmeyer.de" # the base hostname & protocol for your site
 twitter_username: yangmeyer
 github_username:  yangmeyer
 
+future: true
+
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
