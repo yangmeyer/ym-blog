@@ -8,7 +8,7 @@ I make **products that help people get things done** in their work and personal 
 
 Since January 2010, my professional focus has been Mac, iPhone and iPad apps. It is one of the finest platforms to create great software. And much like a musician’s “first” instrument, the Mac and iOS platforms allow me to put my passion into practice.
 
-## Freelance UX
+## Freelance
 
 I help select clients create world-class products as a UX designer. I’ve most recently worked as a **UX lead** on
 
@@ -19,17 +19,23 @@ My past clients include **established companies** in Germany and Sweden as well 
 
 > Limited availability for contract work – [send inquiry](mailto:hello@yangmeyer.de)
 
-## UX Workshops
+## Workshops
 
-I do custom-tailored workshops on **value proposition design**, **design thinking**, **lean UX**, **customer journey mapping**, and **user testing**. I have held workshops on these topics in Germany, Stockholm, and New York – in English, German, and Swedish.
+I offer custom-tailored workshops (1-5 days) on **value proposition design**, **design thinking**, **lean UX**, **customer journey mapping**, **user testing**, and full-fledged **design sprints**. I have run workshops on these topics in Germany, Stockholm, and New York – in English, German, and Swedish.
 
 > Interested in doing a UX workshop for your company? – [send inquiry](mailto:hello@yangmeyer.de)
 
+## UX Advisor
+
+For startups and product teams, I offer **advisory guidance** on product design on a monthly retainer.
+
+> Interested in boosting the impact of your product team? – [send inquiry](mailto:hello@yangmeyer.de)
+
 ## Products
 
-Over the years, my focus has shifted from creating good code to creating good user experiences and to creating good businesses. While good code and good UX are important, ultimately they rely on solid value propositions to be viable.
+Over the years, my focus has shifted from creating good code to creating good user experiences and to creating good businesses. While good code and good UX are important, ultimately they rely on solid value propositions and business models to be viable.
 
-I’m aiming to **build a sustainable business** with my own products. Along the way, I share the joys and frustrations of running a **one-man product business** with my founded [meetup group in Frankfurt](http://www.meetup.com/Micropreneurs-am-Main-Frankfurt/).
+I strive to **build a sustainable business** with my own products. Along the way, I share the joys and frustrations of running a one-man product business with my [meetup group in Frankfurt](http://www.meetup.com/Micropreneurs-am-Main-Frankfurt/).
 
 <img src="{{ "/images/Gemba-128.png" | prepend: site.base_url }}" alt="Gemba - drag and drop git for designers" style="float:right" />
 
@@ -51,7 +57,7 @@ Taking an app all the way – from idea and value proposition design, via intera
 
 ## Global
 
-I don’t call myself “cosmopolitan” or “polyglot” (how pretentious), but others sometimes do. Probably because I haven’t been good at deciding on where I want to live (ID/CN/DE/FR/US/SE) or remembering which languages I still actively speak (de/en/id/fr/sv/es?). Or maybe it’s because every now and again I surprise friends in SF, London or Bangkok with “hey I’m gonna be in your city next week got a sofa for me” e-mails. I’m currently based in **Frankfurt**.
+I don’t call myself “cosmopolitan” or “polyglot” (how pretentious), but others sometimes do. Probably because I haven’t been good at deciding on where I want to live and have lost track of which languages I still actively speak. Or maybe it’s because every now and again I surprise friends in SF, London or Bangkok with “hey I’m gonna be in your city next week got a sofa for me” e-mails. I’m currently based in **Frankfurt**.
 
 ## Interests
 
