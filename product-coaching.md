@@ -2,6 +2,8 @@
 layout: page
 title: Product Coaching Program
 permalink: /product-coaching/
+redirect_from:
+  - /ux-advisor/
 hide: true
 ---
 
