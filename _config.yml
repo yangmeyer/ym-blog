@@ -1,5 +1,5 @@
 # Site settings
-title: "Yang Meyer, entrepreneur & product manager"
+title: "Yang Meyer, entrepreneur / product manager"
 email: hello@yangmeyer.de
 description: > # this means to ignore newlines until "baseurl:"
   Thoughts on startup life, product management, UX design, mobile development,
@@ -17,7 +17,7 @@ future: true
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: "Yang Meyer, entrepreneur & product manager"
+  title: "Yang Meyer, entrepreneur / product manager"
   avatar: avatar.png
   gravatar: 405958e4aa35fd9d028f9ceb95448614 # Email MD5 hash
   description: >
