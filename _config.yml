@@ -12,9 +12,6 @@ github_username:  yangmeyer
 gems:
   - jekyll-redirect-from
 
-whitelist:
-  - jekyll-redirect-from
-
 future: true
 
 # THEME-SPECIFIC CONFIGURATION
@@ -32,7 +29,7 @@ theme:
     <p>Thoughts on startup life, product management, UX design, mobile development,
     freelancing, micropreneurship, and life.</p>
   footer_text: >
-    <p>I help startups with <a href="/about">lean, user-centric, data-driven product development</a>.</p>
+    <p>I help startups with <a href="/about">lean, user-centric, data-driven</a> product development.</p>
 
   # Icons
   rss: true
