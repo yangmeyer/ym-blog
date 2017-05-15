@@ -1,63 +1,58 @@
 # Site settings
-title: "Yang Meyer, entrepreneur / product manager"
+title: "Yang Meyer, impact-driven product designer"
 email: hello@yangmeyer.de
 description: > # this means to ignore newlines until "baseurl:"
-  Thoughts on startup life, product management, UX design, mobile development,
+  Thoughts on Mac &amp; iOS development, UX design, 
   freelancing, micropreneurship, and life.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.yangmeyer.de" # the base hostname & protocol for your site
 twitter_username: yangmeyer
 github_username:  yangmeyer
 
-# gems:
-#  - jekyll-redirect-from
-
 future: true
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: "Yang Meyer, entrepreneur / product manager"
+  title: "Yang Meyer, impact-driven product designer"
   avatar: avatar.png
   gravatar: 405958e4aa35fd9d028f9ceb95448614 # Email MD5 hash
   description: >
-    Thoughts on startup life, product management, UX design, mobile development,
-    freelancing, micropreneurship, and life.
-
+    Thoughts on Mac &amp; iOS development, UX design, freelancing, micropreneurship, and life.
+  
   # Header and footer text
   header_text: >
-    <p>Thoughts on startup life, product management, UX design, mobile development,
-    freelancing, micropreneurship, and life.</p>
+    <p>Thoughts on Mac &amp; iOS development, UX design, freelancing, micropreneurship, and life.</p>
   footer_text: >
-    <p>I help startups with <a href="/about">lean, user-centric, data-driven</a> product development.</p>
-
+    <p>I help startups with <a href="/about">product strategy and UX design</a>.</p>
+  
   # Icons
   rss: true
   email_address: hello@yangmeyer.de
   behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
+  bitbucket: 
+  dribbble: 
+  facebook: 
+  flickr: 
   github: yangmeyer
-  google_plus:
-  instagram:
+  google_plus: 
+  instagram: 
   linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
+  pinterest: 
+  reddit: 
+  soundcloud: 
   stack_exchange:  # Full URL
-  steam:
-  tumblr:
+  steam: 
+  tumblr: 
   twitter: yangmeyer
-  wordpress:
-  youtube:
-
+  wordpress: 
+  youtube: 
+  
   # Scripts
   google_analytics: UA-29587608-1
   disqus_shortname:
-  katex: false # Enable if using math markup
-
+  katex: false # Enable if using math markup 
+  
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
@@ -65,7 +60,7 @@ theme:
   str_next: "Next"
   str_prev: "Prev"
   str_continue_reading: "Read more"
-
+  
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
 
