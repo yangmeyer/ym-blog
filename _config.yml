@@ -9,8 +9,8 @@ url: "http://blog.yangmeyer.de" # the base hostname & protocol for your site
 twitter_username: yangmeyer
 github_username:  yangmeyer
 
-gems:
-  - jekyll-redirect-from
+# gems:
+#  - jekyll-redirect-from
 
 future: true
 
